@@ -11,5 +11,5 @@ ReactDOM.render(
             <Filho nome="Paulo" />
             <Filho nome="Carla" />
         </Pai>
-    </div>    
+    </div>
 , document.getElementById('root'))
